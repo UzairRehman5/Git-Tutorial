@@ -1,0 +1,1 @@
+# clf = DecisionTreeClassifier (max_depth = 5)
